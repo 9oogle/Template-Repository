@@ -1,6 +1,6 @@
 ---
 name: "\U0001F60E Issue template"
-about: Spring Boot 기반 B2B 물류배송 서비스 백엔드 프로젝트
+about: MSA기반 국내 자격증 강의 및 멘토링 서비스 
 title: ''
 labels: ''
 assignees: ''
